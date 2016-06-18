@@ -17,8 +17,13 @@ I propose Tamigo could utilize Read the Docs to document their entire webpage. F
 
 We help our customers maximise revenue and minimise wage costs by effective staff management with a market leading app.
 
-
 .. toctree::
-    :maxdepth: 2
+   :maxdepth: 2
+   :hidden:
 
-    api
+   api
+
+Contents
+========
+
+* :ref:`api`
