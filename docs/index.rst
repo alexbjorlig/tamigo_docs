@@ -6,7 +6,9 @@
 Welcome to Tamigo documentation!
 ==============================================
 
-This documentation is build using github and read the docs to help `Tamigo <http://tamigo.com>`_ offer better documentation for developers. The text is simply copied from the website in pure frustration over the web 1.0 layout. 
+.. danger:: This is not `official <http://www.tamigo.dk/andet/api-dokumentation/>`_ documentation, but community driven work in progress for offering better api documentation.
+
+This documentation is build using github and read the docs to help `Tamigo <http://tamigo.com>`_ offer better documentation for developers.
 
 * `Github repo <https://github.com/dauledk/tamigo_docs>`_
 * `Read The Docs <https://readthedocs.org/>`_ 
@@ -18,6 +20,5 @@ We help our customers maximise revenue and minimise wage costs by effective staf
 
 .. toctree::
     :maxdepth: 2
-    :hidden:
 
     api
