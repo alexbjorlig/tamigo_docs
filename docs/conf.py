@@ -31,7 +31,7 @@
 # extensions coming with Sphinx (named 'sphinx.ext.*') or your custom
 # ones.
 extensions = ['sphinx.ext.autodoc',
-              'sphinxcontrib.napoleon',
+              #'sphinxcontrib.napoleon',
               'sphinx.ext.mathjax',
               'sphinx.ext.extlinks']
 
