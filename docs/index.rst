@@ -22,8 +22,10 @@ We help our customers maximise revenue and minimise wage costs by effective staf
    :hidden:
 
    api
+   examples
 
 Contents
 ========
 
 * :ref:`api`
+* :ref:`examples`
